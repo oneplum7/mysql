@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+# -:-*- coding: utf-8 -*-
 # author:           oneplum7
 # create_time:      2020/10
 # file_name:        rightview.py
@@ -171,9 +171,3 @@ ide ="id"
 values5 = "date_time"
 values6 = "rank_code"
 print(ide,values5,values6)
-
-
-
-
-
-    
