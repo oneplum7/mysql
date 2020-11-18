@@ -58,17 +58,6 @@
 
       11、完成10后，执行： git  push  origin  master
 
-      12、完成11后，执行： git  add  README 
-
-      13、完成12后，执行：git  commit  -m 'first commit'
-
-      14、完成13后，执行： git   push  origin  master
-
-      15、完成14后，执行：git  commit   -m   'second commit'
-
-      16、完成15后，执行：git  add  ./
-
-      17、完成16后，执行：git    commit   -m   'second  commit'
-
+      
       完成了，现在可以去github上刚刚建立的仓库里有没有上传成功的项目
 
